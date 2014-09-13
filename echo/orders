@@ -23,3 +23,4 @@ stop_before_autodeploy
 autodeploy https://github.com/wballard/echo.git#headers
 
 export START="npm start"
+export DOCKER_IMAGE="dockerfile/nodejs"
